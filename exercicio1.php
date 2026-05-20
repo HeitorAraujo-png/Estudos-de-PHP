@@ -25,3 +25,4 @@ checklist
 [ ] Acessei posições de arrays
 [ ] Testei gettype() em diferentes variáveis
 [ ] Consegui criar o exercício independente */
+  
